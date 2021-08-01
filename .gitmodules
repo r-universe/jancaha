@@ -28,3 +28,13 @@
 	url = https://github.com/JanCaha/r_package_qgis
 	shallow = true
 	registered = true
+[submodule "qgisprocess"]
+	path = qgisprocess
+	url = https://github.com/paleolimbot/qgisprocess
+	shallow = true
+	registered = false
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	shallow = true
+	registered = false

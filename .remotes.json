@@ -1,0 +1,14 @@
+[
+  {
+    "package": "qgisprocess",
+    "url": "https://github.com/paleolimbot/qgisprocess",
+    "via": ["qgis"],
+    "from": "qgis"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/r-lib/testthat",
+    "via": ["qgis"],
+    "from": "qgis"
+  }
+]
