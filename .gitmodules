@@ -1,5 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jancaha/universe
 	shallow = true
 	branch = HEAD
+[submodule "FuzzyAHP"]
+	path = FuzzyAHP
+	url = https://github.com/JanCaha/FuzzyAHP
+	shallow = true
+	registered = true
+[submodule "rasterShade"]
+	path = rasterShade
+	url = https://github.com/JanCaha/rasterShade
+	shallow = true
+	registered = true
+[submodule "SpatialKDE"]
+	path = SpatialKDE
+	url = https://github.com/JanCaha/SpatialKDE
+	shallow = true
+	registered = true
+[submodule "CzechData"]
+	path = CzechData
+	url = https://github.com/JanCaha/CzechData
+	shallow = true
+	registered = true
+[submodule "qgis"]
+	path = qgis
+	url = https://github.com/JanCaha/r_package_qgis
+	shallow = true
+	registered = true
