@@ -33,6 +33,11 @@
 	url = https://github.com/paleolimbot/qgisprocess
 	shallow = true
 	registered = false
+[submodule "spDataLarge"]
+	path = spDataLarge
+	url = https://github.com/Nowosad/spDataLarge
+	shallow = true
+	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
