@@ -30,7 +30,7 @@
 	registered = true
 [submodule "qgisprocess"]
 	path = qgisprocess
-	url = https://github.com/paleolimbot/qgisprocess
+	url = https://github.com/r-spatial/qgisprocess
 	shallow = true
 	registered = false
 [submodule "spDataLarge"]

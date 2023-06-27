@@ -1,7 +1,7 @@
 [
   {
     "package": "qgisprocess",
-    "url": "https://github.com/paleolimbot/qgisprocess",
+    "url": "https://github.com/r-spatial/qgisprocess",
     "via": ["qgis"],
     "from": "qgis"
   },
