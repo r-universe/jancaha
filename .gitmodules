@@ -1,45 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/jancaha/universe
-	shallow = true
 	branch = HEAD
 [submodule "FuzzyAHP"]
 	path = FuzzyAHP
 	url = https://github.com/JanCaha/FuzzyAHP
-	shallow = true
-	registered = true
 [submodule "rasterShade"]
 	path = rasterShade
 	url = https://github.com/JanCaha/rasterShade
-	shallow = true
-	registered = true
 [submodule "SpatialKDE"]
 	path = SpatialKDE
 	url = https://github.com/JanCaha/SpatialKDE
-	shallow = true
-	registered = true
 [submodule "CzechData"]
 	path = CzechData
 	url = https://github.com/JanCaha/CzechData
-	shallow = true
-	registered = true
 [submodule "qgis"]
 	path = qgis
 	url = https://github.com/JanCaha/r_package_qgis
-	shallow = true
-	registered = true
 [submodule "qgisprocess"]
 	path = qgisprocess
 	url = https://github.com/r-spatial/qgisprocess
-	shallow = true
 	registered = false
 [submodule "spDataLarge"]
 	path = spDataLarge
 	url = https://github.com/Nowosad/spDataLarge
-	shallow = true
 	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
-	shallow = true
 	registered = false
