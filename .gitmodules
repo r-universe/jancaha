@@ -2,18 +2,15 @@
 	path = .registry
 	url = https://github.com/jancaha/universe
 	branch = HEAD
-[submodule "FuzzyAHP"]
-	path = FuzzyAHP
-	url = https://github.com/JanCaha/FuzzyAHP
-[submodule "rasterShade"]
-	path = rasterShade
-	url = https://github.com/JanCaha/rasterShade
-[submodule "SpatialKDE"]
-	path = SpatialKDE
-	url = https://github.com/JanCaha/SpatialKDE
 [submodule "CzechData"]
 	path = CzechData
 	url = https://github.com/JanCaha/CzechData
+[submodule "FuzzyAHP"]
+	path = FuzzyAHP
+	url = https://github.com/JanCaha/FuzzyAHP
+[submodule "SpatialKDE"]
+	path = SpatialKDE
+	url = https://github.com/JanCaha/SpatialKDE
 [submodule "qgis"]
 	path = qgis
 	url = https://github.com/JanCaha/r_package_qgis
@@ -21,6 +18,9 @@
 	path = qgisprocess
 	url = https://github.com/r-spatial/qgisprocess
 	registered = false
+[submodule "rasterShade"]
+	path = rasterShade
+	url = https://github.com/JanCaha/rasterShade
 [submodule "spDataLarge"]
 	path = spDataLarge
 	url = https://github.com/Nowosad/spDataLarge
